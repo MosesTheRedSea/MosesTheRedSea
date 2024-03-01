@@ -33,4 +33,3 @@ Hi, My Name is Moses Adewolu.
   
 </div>
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/MosesTheRedSea/MosesTheRedSea/output/github-snake.svg)
