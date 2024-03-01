@@ -18,6 +18,18 @@ C:\Moses-Adewolu> node index.js
 Hi, My Name is Moses Adewolu. 
 ```
 
+ <h2 align="center">
+      Contact & Connect
+  </h2>
+
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+  
+</div>
+
+
+
 
 <div>
    <h2 align="center">
