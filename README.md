@@ -45,7 +45,7 @@ Hi, My Name is Moses Adewolu.
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,swift,html,css,js,nodejs,react,git,github,gitlab,figma,mongodb,firebase,linux,robloxstudio,unity,blender,ps,unbuntu&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=lua,java,py,c,cpp,cs,swift,html,css,js,nodejs,react,materialui,git,github,gitlab,figma,mongodb,firebase,mysql,linux,robloxstudio,androidstudio,unity,blender,ps,ubuntu,&theme=light&perline=11" />
   
   </a>
 </p>
