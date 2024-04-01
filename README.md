@@ -8,7 +8,7 @@ new Person({
     name   : 'Moses Adewolu',
     title  : 'Computer Programmer',
     email  : 'MosesOluwatobiAdewolu@gmail.com',
-    currentProjects : [Streamify, Spotify_Encore, GTExplorer, Voltage]
+    currentProjects : [Streamify, Rhythm_Recap , GTExplorer, Voltage]
     
     
 }).sayHello();
