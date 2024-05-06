@@ -19,7 +19,7 @@ Hi, My Name is Moses Adewolu.
 ```
 
  <h2 align="center">
-      Contact & Connect
+      Contact | Connect
   </h2>
 
 <div align="center">
@@ -32,23 +32,6 @@ Hi, My Name is Moses Adewolu.
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mosesoluwatobiadewolu/)
 
   
-  
-</div>
-
-
-
-
-<div>
-   <h2 align="center">
-      Technologies & Tools
-  </h2>
-
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,java,py,c,cpp,cs,swift,html,css,js,nodejs,react,materialui,git,github,gitlab,figma,mongodb,firebase,mysql,linux,ubuntu,robloxstudio,ps,androidstudio,unity,blender&theme=light&perline=11" />
-  
-  </a>
-</p>
   
 </div>
 
