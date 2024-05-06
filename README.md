@@ -31,7 +31,19 @@ Hi, My Name is Moses Adewolu.
 [![image](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/MosesTheRedSea)
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mosesoluwatobiadewolu/)
 
+</div>
+
+<div>
+   <h2 align="center">
+      Technologies & Tools
+  </h2>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,java,py,c,cpp,cs,html,css,js,react,materialui,git,linux,ubuntu,robloxstudio,androidstudio,blender&theme=light&perline=11" />
   
+  </a>
+</p>
   
 </div>
 
