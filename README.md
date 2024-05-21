@@ -39,7 +39,7 @@ Hi, My Name is Moses Adewolu.
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,java,py,c,cpp,cs,html,css,js,react,materialui,git,linux,ubuntu,robloxstudio,androidstudio,blender&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=lua,java,py,c,cpp,cs,html,css,js,ts,react,materialui,git,linux,ubuntu,robloxstudio,androidstudio,blender&theme=light&perline=11" />
   
   </a>
 </p>
