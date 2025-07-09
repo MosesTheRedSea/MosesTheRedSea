@@ -18,7 +18,7 @@ Hi, My Name is Moses Adewolu.
 ```
 
 <h2 align="center"> Projects </h2> <div align="center">
-<a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>LLMGE01</b></a> <a href="https://github.com/MosesTheRedSea/MPPI"><b>MPPI</b></a> <a href="https://github.com/MosesTheRedSea/ROBLOX"><b>ROBLOX</b></a>
+<a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>Large Language Model Guided Evolution</b></a> <a href="https://github.com/MosesTheRedSea/MPPI"><b>Model Predictive Path Integral</b></a> <a href="https://github.com/MosesTheRedSea/ROBLOX"><b>ROBLOX</b></a>
 
 <h2 align="center">
   Connect
