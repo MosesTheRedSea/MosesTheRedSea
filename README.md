@@ -8,7 +8,7 @@ new Person({
     name   : 'Moses Adewolu',
     title  : 'Computer Programmer',
     email  : 'MosesOluwatobiAdewolu@gmail.com',
-    currentProjects : [Voltage Roblox-Videogame, Personal-Portfolio, Fin-Tech Startup, Educational Note Startup]
+    currentProjects : [Voltage Roblox-Videogame, Personal-Portfolio]
 
 }).sayHello();
 ```
