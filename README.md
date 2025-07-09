@@ -21,7 +21,7 @@ Hi, My Name is Moses Adewolu.
 <a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>LLMGE01</b></a> <a href="https://github.com/MosesTheRedSea/MPPI"><b>MPPI</b></a> <a href="https://github.com/MosesTheRedSea/ROBLOX"><b>ROBLOX</b></a>
 
 <h2 align="center">
-  Contact | Connect
+  Connect
 </h2>
 
 <div align="center">
