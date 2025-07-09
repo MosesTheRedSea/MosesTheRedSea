@@ -37,7 +37,7 @@ Hi, My Name is Moses Adewolu.
 
 <div>
    <h2 align="center">
-      Technologies & Tools
+      Tools
   </h2>
 
   <p align="center">
