@@ -16,12 +16,13 @@ new Person({
 C:\Moses-Adewolu> node index.js
 Hi, My Name is Moses Adewolu.
 ```
-[LLMGE01](https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic) [MPPI](https://github.com/MosesTheRedSea/MPPI) [ROBLOX](https://github.com/MosesTheRedSea/ROBLOX)
 
+<h2 align="center"> Projects </h2> <div align="center">
+<a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>LLMGE01</b></a> <a href="https://github.com/MosesTheRedSea/MPPI"><b>MPPI</b></a> <a href="https://github.com/MosesTheRedSea/ROBLOX"><b>ROBLOX</b></a>
 
- <h2 align="center">
-      Contact | Connect
-  </h2>
+<h2 align="center">
+  Contact | Connect
+</h2>
 
 <div align="center">
 
