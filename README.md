@@ -18,13 +18,13 @@ Hi, My Name is Moses Adewolu.
 ```
 
 <h2 align="center"> Projects </h2> <div align="center">
-<a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>Large Language Model Guided Evolution</b></a> <a href="https://github.com/MosesTheRedSea/MPPI"><b>Model Predictive Path Integral</b></a> <a href="https://github.com/MosesTheRedSea/ROBLOX"><b>ROBLOX</b></a>
+<a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>LLMGE01</b></a> <a href="https://github.com/MosesTheRedSea/MPPI"><b>MPPI</b></a> <a href="https://github.com/MosesTheRedSea/ROBLOX"><b>ROBLOX</b></a>
 
 <h2 align="center">
   Connect
 </h2>
 
-<div align="center">
+<div align="center"
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-adewolu/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MosesOluwatobiAdewolu@gmail.com)
