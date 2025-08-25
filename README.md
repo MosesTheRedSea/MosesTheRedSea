@@ -16,7 +16,6 @@ new Person({
 C:\Moses-Adewolu> node index.js
 Hi, My Name is Moses Adewolu.
 ```
-<a href="https://github.com/MosesTheRedSea/LLM-Guided-Evolution-Generic"><b>Large Language Model Guided Evolution</b></a>
 
 <h2 align="center">
   Connect
