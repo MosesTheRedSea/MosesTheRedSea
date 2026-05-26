@@ -8,7 +8,7 @@ new Person({
     name   : 'Moses Adewolu',
     title  : 'Computer Science Student @ Georgia Institute of Technology',
     email  : 'MosesOluwatobiAdewolu@gmail.com',
-    currentProjects : [Voltage Roblox-Videogame, Personal-Portfolio, Robotics Research @ Institute of Science Tokyo Japan]
+    currentProjects : [Voltage Roblox-Videogame, Personal-Portfolio, Robotics Research @ Science Tokyo Japan]
 
 }).sayHello();
 ```
