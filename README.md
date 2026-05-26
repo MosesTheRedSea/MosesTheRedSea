@@ -6,9 +6,9 @@ import { Person } from 'Atlanta Georgia';
 
 new Person({
     name   : 'Moses Adewolu',
-    title  : 'Computer Programmer',
+    title  : 'Computer Science Student @ Georgia Institute of Technology',
     email  : 'MosesOluwatobiAdewolu@gmail.com',
-    currentProjects : [Voltage Roblox-Videogame, Personal-Portfolio]
+    currentProjects : [Voltage Roblox-Videogame, Personal-Portfolio, Robotics Research @ Institute of Science Tokyo Japan]
 
 }).sayHello();
 ```
